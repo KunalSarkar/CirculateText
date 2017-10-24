@@ -22,7 +22,7 @@ Simply include the jquryrotate and then include the circulatetext scripts in you
 
 <!-- Initialize the plugin -->
 <script>
-	$(document).read(function(){
+	$(document).ready(function(){
 		$("#circulateThis").circulateText(200);
 	});
 	
@@ -37,5 +37,5 @@ radius: radius of the circle the text sits on
 space: this is optional, if provided it will determine the spaces between the characters
 
 ```html
-$(".circulateText").circulateText(radius,space);
+$("#circulateThis").circulateText(radius,space);
 ```
