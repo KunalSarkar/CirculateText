@@ -2,7 +2,7 @@
 CirculateText JQuery plugin to bend any text on circular shape of desired radius.
 
 ### Dependency:
-Since CirculateText is a Jquery plugin so Jquery is an obvious dependency you must include. Additionally the plugin also uses the jqueryrotate to rotate the text so make sure to include that as well! You can find jqueryrotate here:
+Since CirculateText is a JQuery plugin so Jquery is an obvious dependency you must include. Additionally the plugin also uses the jqueryrotate to rotate the text so make sure to include that as well! You can find jqueryrotate here:
 
 http://jqueryrotate.com
 
