@@ -32,9 +32,9 @@ Simply include the jquryrotate and then include the circulatetext scripts in you
 ### Options
 CiculateText provides two options to rotate your text:
 
-radius: radius of the circle the text sits on
+- radius: radius of the circle the text sits on
 
-space: this is optional (default is 10), if provided it will determine the spaces between the characters
+- space: this is optional (default is 10), if provided it will determine the spaces between the characters
 
 ```html
 $("#circulateThis").circulateText(radius,space);
